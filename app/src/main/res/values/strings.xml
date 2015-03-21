@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="movie_list">
+        <item >All</item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Thriller</item>
+        <item>Crime</item>
+    </string-array>
+</resources>
